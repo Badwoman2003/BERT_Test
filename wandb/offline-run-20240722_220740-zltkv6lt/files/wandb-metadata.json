@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2024-07-22T14:07:40.849725",
+    "startedAt": "2024-07-22T14:07:40.786068",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\HP\\Desktop\\Personal_Project\\BERT_Test\\Acting.py",
+    "codePathLocal": "Acting.py",
+    "codePath": "Desktop\\Personal_Project\\BERT_Test\\Acting.py",
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "3242204470@qq.com",
+    "root": "C:/Users/HP",
+    "host": "LAPTOP-VS8JLJQ7",
+    "username": "HP",
+    "executable": "D:\\python3.10\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2200.0,
+        "min": 0.0,
+        "max": 2200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200.0,
+            "min": 0.0,
+            "max": 2200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 251.73144149780273,
+            "used": 235.40876007080078
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 15.700675964355469
+    }
+}
